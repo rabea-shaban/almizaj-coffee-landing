@@ -1,0 +1,28 @@
+{
+  "name": "coffee-shop",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "framer-motion": "^12.39.0",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "react-icons": "^5.6.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5",
+    "vite": "^6.0.0"
+  }
+}
